@@ -1,7 +1,9 @@
 
 | Req-Id | Description                                                                                          | Priority |
 
+
 | R-01   | The robot should remain idle after being switched on until it receives a delivery request.          | High     |
+
 | R-02   | When a delivery request is received, the robot should start moving toward the destination.         | High     |
 | R-03   | While moving, the robot should continuously check for obstacles around it.                          | High     |
 | R-04   | If an obstacle is detected, the robot should stop normal navigation and enter obstacle avoidance.  | High     |
