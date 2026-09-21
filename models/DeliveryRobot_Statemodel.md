@@ -39,4 +39,6 @@
 
 
 | S-09     | RETURNING          | Returning due to low battery.        | Battery critical     | Warehouse reached     |
+
+
 | S-10     | DELIVERING         | Completing the delivery process.     | Destination reached  | Delivery successful   |
