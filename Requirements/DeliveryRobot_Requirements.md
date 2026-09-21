@@ -23,10 +23,10 @@
 | R-07   | After the package is delivered successfully, the robot should return to the warehouse.             | High     |
 
 
-| R-08   | If the battery becomes critically low during navigation, the robot should stop and return to the  | High     |
+| R-08   | If the battery becomes critically low during navigation, the robot should stop and return to the 
+            warehouse.                                                                                       | High     |
 
-
- warehouse.                                                                                        
+                                                                                        
 | R-09   | After reaching the warehouse, the robot should become idle and wait for another delivery request. | Medium   |
 
 
