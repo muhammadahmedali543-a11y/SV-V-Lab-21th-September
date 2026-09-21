@@ -34,5 +34,7 @@
 
 
 | T-09           | NAVIGATING           | Obstacle Detected        | AVOIDING_OBSTACLE    | R-04   |
+
+
 | T-10           | AVOIDING_OBSTACLE    | Obstacle Avoided         | NAVIGATING           | R-05   |
 
